@@ -1,0 +1,24 @@
+sort1 uses: Bubble sort
+
+How do you know?: Foi executado mais rápido em uma lista ordenada
+
+sort2 uses: Merge sort
+
+How do you know?: Foi executado mais rápido em uma lista aleatória
+
+sort3 uses: Selection sort
+
+How do you know?: Única opção que restou
+
+
+Tempo
+Lista não ordenada:
+Sort1	8,800s
+Sort2	2,349s
+Sort3	3,147s
+
+Lista ordenada:
+Sort1	0,972s
+Sort2	1,297s
+Sort3	3,384s
+

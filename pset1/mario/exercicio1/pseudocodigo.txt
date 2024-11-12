@@ -1,0 +1,24 @@
+Algoritmo "TrianguloComHashtags"
+    Var
+        altura, linha, coluna, espacos: inteiro
+
+    Inicio
+        Repita
+            Escreva("Altura: ")
+            Leia(altura)
+        Ate (altura < 1 OU altura > 8)
+
+        Para linha de 0 ate altura - 1 faca
+            Para espacos de 0 ate altura - linha - 2 faca
+                Escreva(" ")
+            FimPara
+
+            Para coluna de 0 ate linha faca
+                Escreva("#")
+            FimPara
+
+            Escreva("\n")
+        FimPara
+    Fim
+FimAlgoritmo
+

@@ -1,0 +1,13 @@
+{% extends "layout.html" %}
+
+{% block title %}
+Cotação
+{% endblock %}
+
+{% block main %}
+<h1>Cotação</h1>
+<p><strong>Nome:</strong> {{ stock.name }}</p>
+<p><strong>Símbolo:</strong> {{ stock.symbol }}</p>
+<p><strong>Preço:</strong> {{ stock.price | usd }}</p>
+{% endblock %}
+

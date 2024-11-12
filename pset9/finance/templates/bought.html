@@ -1,0 +1,11 @@
+{% extends "layout.html" %}
+
+{% block title %}
+Compra Realizada
+{% endblock %}
+
+{% block main %}
+<h1>Compra Realizada</h1>
+<p>Você comprou {{ shares }} ações de {{ stock.name }} ({{ stock.symbol }}) por {{ total_price | usd }}.</p>
+{% endblock %}
+

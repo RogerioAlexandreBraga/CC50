@@ -1,0 +1,11 @@
+Durante o desenvolvimento do exercício "Songs", comecei analisando o enunciado do problema para entender os requisitos. Em seguida, dividi o problema em partes menores e comecei a implementar cada parte individualmente. Utilizei SQL para consultar o banco de dados `songs.db` e obter as informações necessárias.
+
+Um dos desafios que encontrei foi garantir que as consultas SQL retornassem os resultados corretos. Tive que revisar a sintaxe SQL e testar várias consultas para garantir que estavam corretas. Além disso, encontrei dificuldades ao tentar otimizar as consultas para melhorar o desempenho.
+
+Para superar esses desafios, consultei a documentação do SQL e utilizei ferramentas de depuração para identificar e corrigir erros. Também pedi ajuda a colegas e participei de fóruns online para obter sugestões e soluções.
+
+Ao longo do processo, aprendi muito sobre a estrutura de bancos de dados e a escrita de consultas SQL eficientes. Também aprendi a importância de testar e validar cada parte do código para garantir que o programa funcione corretamente.
+
+No futuro, pretendo melhorar meu código adicionando mais comentários e documentação para torná-lo mais fácil de entender e manter. Também gostaria de explorar técnicas avançadas de otimização de consultas para melhorar ainda mais o desempenho.
+
+Em resumo, este exercício foi uma experiência valiosa que me ajudou a desenvolver minhas habilidades em SQL e resolução de problemas.
